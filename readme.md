@@ -8,6 +8,6 @@ And more text
 
 ## another subheader
 
-* point 1
-* point 2
-* point 3
+* point a
+* point b
+* point c
